@@ -1,0 +1,49 @@
+body {
+    background-image: linear-gradient(AliceBlue, CadetBlue, DarkBlue);
+}
+input {
+    width = 100%;
+    border-radius:5px;
+    font: arial;
+    margin: 5px 0;
+}
+h1 {
+    text-align: center;
+    color: black;
+    font-family: 'Bungee Shade';font-size: 22px;
+    font-size: 400%;
+}
+form  {
+    text-align: center;
+    color: black;
+    font-family: 'Pompiere';font-size: 22px;
+    font-size: 130%;
+}
+div  {
+    text-align: center;
+    color: white;
+    font-family: 'Pompiere';font-size: 22px;
+    font-size: 130%;
+}
+
+select  {
+    text-align: center;
+    color: black;
+    font: arial;
+    font-size: 50%;
+    margin: 5px 0;
+}
+
+td {
+    text-align: center;
+    color: black;
+    font-family: 'Alegreya Sans';font-size: 50px;
+    
+}
+
+tr {
+    text-align: center;
+    color: black;
+    font-family: 'Alegreya Sans';font-size: 50px;
+    
+}
